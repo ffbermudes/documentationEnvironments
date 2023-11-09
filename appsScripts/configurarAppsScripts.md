@@ -1,4 +1,4 @@
-# Abrir projeto AppsScripts
+# Abrir projeto AppsScripts no vscode
 
 ## Iniciar projeto
 ~~~bash
