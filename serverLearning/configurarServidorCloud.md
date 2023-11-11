@@ -4,8 +4,6 @@
 
 [ <-- __PÁGINA INICIAL__](/README.md)
 
-...
-
 ## Configurações Iniciais do Servidor
 ~~~bash
 #Acessar o servidor pelo terminal via ssh
