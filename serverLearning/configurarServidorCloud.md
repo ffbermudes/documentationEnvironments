@@ -2,6 +2,8 @@
 
 ## Criar Uma Instância Em Qualquer Servidor Cloud
 
+[ <-- __PÁGINA INICIAL__](/README.md)
+
 ...
 
 ## Configurações Iniciais do Servidor

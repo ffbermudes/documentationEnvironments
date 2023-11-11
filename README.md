@@ -1,4 +1,5 @@
 # Links para navegar pela documentação
-
-1. [Utilizar vscode com appsScripts](appsScripts/configurarAppsScripts.md)
-2. [Configurar servidor cloud](appsScripts/configurarServidorCloud.md)
+1. Apps Scripts Docs
+	* [Utilizar vscode com appsScripts](appsScripts/configurarAppsScripts.md)
+2. DevOps docs
+	* [Configurar servidor cloud](serverLearning/configurarServidorCloud.md)

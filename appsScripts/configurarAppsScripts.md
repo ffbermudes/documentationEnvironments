@@ -1,5 +1,7 @@
 # Abrir projeto AppsScripts no vscode
 
+[ <-- __PÁGINA INICIAL__](/README.md)
+
 ## Iniciar projeto
 ~~~bash
 # Cria o packet.json dentro da pasta do projeto
