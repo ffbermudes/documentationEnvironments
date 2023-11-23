@@ -8,7 +8,7 @@ O objetivo é limpar o log com commits repetidos e desnecessários. Essa forma �
 git rebase -i HEAD~<n>
 # <n> substituir pela quantidade de commits.
 ~~~
-Após esse comando irá abrir no editor de texto de sua preferência todos os commits selecionados a partir o HEAD. Utilizando a palavra __squash__, __pick__ e __drop__.
+Após esse comando irá abrir no editor de texto de sua preferência todos os commits selecionados a partir do HEAD. Utilizando a palavra __squash__, __pick__ e __drop__.
 
 * squash fara a junção dos commits
 * drop remove o commit
