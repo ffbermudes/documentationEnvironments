@@ -17,10 +17,10 @@
 * [União de commits](/git/git.md)
 
 ## Css
-* [Screen sem scroll](/css/noScrollMobile.md)
+* [Tela fixa sem scroll](/css/noScrollMobile.md)
 
 ## Google analytics
-* [google analytics](/googleAnalytics/registroTags.md)
+* [Configurações de tags](/googleAnalytics/registroTags.md)
 
 ## Google Ads tags
 
