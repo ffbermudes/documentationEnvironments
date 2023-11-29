@@ -2,6 +2,10 @@
 
 [ <-- __PÁGINA INICIAL__](/README.md)
 
+1. [AppsScripts no Vscode](#appsScriptsVscode)
+2. [Proteção da planilha](#protecaoPlanilha)
+
+<a id="appsScriptsVscode"></a>
 ## Iniciar projeto
 ~~~bash
 # Cria o packet.json dentro da pasta do projeto
@@ -44,4 +48,17 @@ npx clasp push
 
 # Pega os códigos mais atualizados que possivelmente foram feitos por outra pessoa.
 npx clasp pull
+~~~
+
+# Proteção da planilha
+
+~~~javascript
+//Adicionar proteção ao documento inteiro
+SpreadsheetApp.getActiveSpreadSheet().protect()
+
+//Adicionar proteção à uma folha
+SpreadsheetApp.getActive().getSheetByName('nomeFolha').protect()
+
+//Adicionar proteção à um range
+SpreadsheetApp.getActive().getSheetByName('nomeFolha').getRange('D2:E').protect()
 ~~~
