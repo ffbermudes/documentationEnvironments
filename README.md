@@ -25,3 +25,6 @@
 ## Google Ads tags
 
 ## Facebook Ads tags
+
+## Php
+* [Códigos php importantes](/php/phpCodigos.md)
