@@ -13,4 +13,4 @@ isset($_GET['rota']);
 # Neste exemplo ele vai checar se existe na url alguma requisição get com o nome rota no queryparam.
 ~~~
 
-A super global $_GET é um array. e o isset está sendo utilizado para checar a existência dessa chave __rota__.
+A super global $_GET é um array. E o isset está sendo utilizado para checar a existência dessa chave __rota__. Caso ela exista retorna o valor 1, se não null.
